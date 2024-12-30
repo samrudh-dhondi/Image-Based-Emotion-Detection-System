@@ -16,27 +16,15 @@ An emotion prediction system involves using techniques such as machine learning,
 - Output Display: Input an image, and the pre-trained model predicts the dominant emotion. Display the image with the predicted emotion overlaid in real-time.
 
 
-
-
-
-
 ## Features
 
 - Accurate Emotion Recognition: Utilizes CNNs for learning hierarchical features from facial images.
 - Real-time Prediction: Provides fast and reliable emotion predictions with a user-friendly display.
 - Reusable Model: Trained model can be used directly for predictions without retraining.
 
-
-
-
-
-
 ## Evaluation
 
 ![graph](https://github.com/user-attachments/assets/5f4566c2-8b1f-4a76-b37f-63218248457e)
-
-
-
 
 ## Demo
 
