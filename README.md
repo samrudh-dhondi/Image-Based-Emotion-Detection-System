@@ -6,13 +6,9 @@ An emotion prediction system involves using techniques such as machine learning,
 ### Methodology
 
 - Dataset Loading and Preprocessing: Load facial images categorized by emotions. Preprocess images (resizing to a consistent size, label encoding).
-
 - Model Definition and Training: Define a CNN model with convolutional and pooling layers for feature extraction, followed by fully connected layers for classification. Train the model using the preprocessed dataset.
-
 - Model Evaluation: Evaluate the model using metrics like accuracy and loss on training and testing datasets.
-
 - Model Saving: Save the trained model for future predictions, eliminating the need for retraining.
-
 - Output Display: Input an image, and the pre-trained model predicts the dominant emotion. Display the image with the predicted emotion overlaid in real-time.
 
 
